@@ -9,7 +9,7 @@ class MainHandler(webapp2.RequestHandler):
             <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script  src="templates/validator.js"></script>
+    <script  src="/templates/validator.js"></script>
     <meta charset="UTF-8">
     <title>ECO</title>
 </head>
